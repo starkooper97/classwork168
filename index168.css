@@ -1,0 +1,35 @@
+* {
+  color: black;
+}
+
+html {
+  width: 50%;
+  border: 8px solid brown;
+}
+
+h1 {
+  color: blue;
+  border: 4px dashed darkgoldenrod;
+  width: 50%;
+}
+
+p {
+  color: red;
+}
+
+h1,
+h2 {
+  color: bisque;
+}
+
+article p {
+  color: rgb(241, 171, 80);
+}
+
+.hashed {
+  background-color: bisque;
+}
+
+#linked {
+  background-color: rgb(236, 188, 126);
+}
